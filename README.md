@@ -17,19 +17,19 @@ Escolha uma opção:
    
 Funcionalidades:
 
-a) (2,0) Cadastrar produto -> deverá entrar com o nome do produto, a quantidade e o valor unitário.
+a) Cadastrar produto -> deverá entrar com o nome do produto, a quantidade e o valor unitário.
 Os valores deverão ser armazenados em um array. O cadastro dos produtos deverão ser realizados
 em um método.
 
-b) (2,0) Pesquisar produto -> o usuário deverá informar o nome do produto e, caso esteja armazenado,
+b) Pesquisar produto -> o usuário deverá informar o nome do produto e, caso esteja armazenado,
 seus dados deverão ser exibidos. Caso o produto não esteja armazenado uma mensagem deverá ser
 exibida para o usuário da aplicação. A pesquisa deverá ser realizada em um método. Observação: o
 valor do produto deverá ser exibido com duas casas decimais.
 
-c) (2,0) Listar produto -> deverá exibir todos os produtos cadastrados. A listagem deverá ser realizada
+c) Listar produto -> deverá exibir todos os produtos cadastrados. A listagem deverá ser realizada
 em um método. Observação: o valor do produto deverá ser exibido com duas casas decimais.
 
-d) (2,0) Excluir produto -> deverá entrar com o nome do produto e, caso o produto esteja cadastrado,
+d) Excluir produto -> deverá entrar com o nome do produto e, caso o produto esteja cadastrado,
 todos os seus dados deverão ser removidos do vetor. A exclusão deverá ser realizada em um método.
 Observação: para a realização do exercício só serão permitidas as estruturas e as funcionalidades
 estudadas durante as aulas. Assuntos não estudados não serão permitidos e, caso o aluno utilize, o seu
